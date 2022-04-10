@@ -13,19 +13,9 @@
 }
 
 body {
-    background-color: #F0F0F0;
+    background-color: #D5E1EF;
     font-family: "Outfit", sans-serif;
     font-size: 15px;
-}
-
-.tool {
-    background-color: #D5E1EF;
-    margin-right: 2%;
-    margin-left: 2%;
-    margin-top: 4%;
-    margin-bottom: 4%;
-    padding-top: 7%;
-    padding-bottom: 7%;
 }
 
 .qr {
@@ -34,14 +24,14 @@ body {
     -moz-border-radius: 5%;
     -ms-border-radius: 5%;
     -o-border-radius: 5%;
-    padding: 1.25rem;
-    width: 500px;
+    padding: 1rem;
+    width: 450px;
+    margin-top: 4%;
+    margin-bottom: 4%;
 }
 
 .image {
-    margin-left: 1%;
-    margin-right: 1%;
-    margin-top: 4%;
+    margin-top: 1%;
     height: 400px;
     width: 400px;
 }
